@@ -1,0 +1,9 @@
+Table : sales_transactions
+
+Columns
+
+transaction_id
+customer_id
+transaction_date
+total_amount
+region
