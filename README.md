@@ -92,12 +92,13 @@ The application then validates the generated SQL, executes it against a database
                            │
                            ▼
                        Gemini AI
----
+```
 
 ### Architecture Diagram
 
 ![AI SQL Assistant Architecture](docs/architecture.png)
 
+---
 ## 🛠️ Technology Stack
 
 * **Python**
